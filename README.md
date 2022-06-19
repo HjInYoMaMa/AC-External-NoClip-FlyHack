@@ -1,7 +1,7 @@
 # AC-External-NoClip-FlyHack
 
 # 🛰 About
-This is basic external trainer with FlyHack and NoClip
+This is basic external trainer with FlyHack and NoClip for game called AssaultCube
 
 ## ☂️ Features
 - FlyHack
