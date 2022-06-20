@@ -72,7 +72,7 @@ int main()
             }
             else
             {
-                WriteProcessMemory(hProcess, (BYTE*)invisibleAddr, &spectateOff, sizeof(spectateOff), nullptr);
+                WriteProcessMemory(hProcess, (BYTE*)invisibleAddr, &invisibleOff, sizeof(invisibleOff), nullptr);
             }
         }
     }
